@@ -14,6 +14,16 @@ Especialistas que partiparam do Painel de Certificações:
 - **Henrique Eduardo Souza (Microsoft MVP)**
 - **Johnson de Souza Cruz (MTAC)**
 
+Foram abordadas as seguintes certificações durante o evento:
+- **AZ-900: Azure Fundamentals**
+- **AZ-204: Developing Solutions for Microsoft Azure**
+- **AZ-400: Designing and Implementing Microsoft DevOps Solutions**
+- **AI-900: Microsoft Azure AI Fundamentals**
+- **AI-102: Designing and Implementing a Microsoft Azure AI **Solution**
+- **DP-900: Microsoft Azure Data Fundamentals**
+- **DP-420: Designing and Implementing Cloud-Native **Applications Using Microsoft Azure Cosmos DB**
+- **AZ-305: Designing Microsoft Azure Infrastructure Solutions**
+
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
 Este evento foi uma parceria entre a comunidade [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/) e a [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](https://suicobrasileira.sp.senai.br/).
